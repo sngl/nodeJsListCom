@@ -6,7 +6,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "listCom.c"
 
 
 uv_mutex_t write_queue_mutex;
