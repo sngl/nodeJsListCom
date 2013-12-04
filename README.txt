@@ -8,4 +8,4 @@ src_win/ for the Windows version
 
 ### Note:
 
-You need node-gyp and Python installed on your machine in order to compile sources
+On Windows: You need node-gyp, Python and Microsoft Visual Studio Express installed on your machine in order to compile sources.
